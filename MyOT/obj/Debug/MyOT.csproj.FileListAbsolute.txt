@@ -69,7 +69,5 @@ D:\NewProject\MyOT\MyOT\obj\Debug\MyOT.csproj.CoreCompileInputs.cache
 D:\NewProject\MyOT\MyOT\obj\Debug\MyOT.csproj.CopyComplete
 D:\NewProject\MyOT\MyOT\obj\Debug\MyOT.dll
 D:\NewProject\MyOT\MyOT\obj\Debug\MyOT.pdb
-D:\NewProject\MyOT\MyOT\bin\EntityFramework.dll
-D:\NewProject\MyOT\MyOT\bin\EntityFramework.SqlServer.dll
 D:\NewProject\MyOT\MyOT\bin\EntityFramework.xml
 D:\NewProject\MyOT\MyOT\bin\EntityFramework.SqlServer.xml
